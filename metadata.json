@@ -1,0 +1,8 @@
+{
+  "name": "OmniMind AI System",
+  "description": "An advanced, multi-modal AI control center featuring NLU, Computer Vision, Audio Synthesis, and Predictive Analytics powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
